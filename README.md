@@ -1,2 +1,3 @@
 # Downler
-Download video from YouTube with this python script!
+Download video from YouTube with this Python script!
+!Needed PyTube pip-package!
